@@ -1,0 +1,16 @@
+.header {
+    width: 100%;
+    font-size: 2rem;
+    color: rgb(18, 33, 247);
+    margin-bottom: 10px;
+  }
+  .title {
+    float: left;
+  }
+  .scores {
+    float: right;
+  }
+  .description {
+    text-align: center;
+  }
+ 

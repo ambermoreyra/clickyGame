@@ -1,0 +1,74 @@
+[
+   {
+     "id": 1,
+     "name": "Brewers",
+     "image": "https://seeklogo.com/images/M/milwaukee-brewers-logo-05E7BB4FD2-seeklogo.com.png",
+     "count": 0
+   },
+   {
+     "id": 2,
+     "name": "Cubs",
+     "image": "https://seeklogo.com/images/C/chicago-cubs-logo-CE29653727-seeklogo.com.png",
+     "count": 0
+   },
+   {
+     "id": 3,
+     "name": "Rockies",
+     "image": "https://seeklogo.com/images/C/colorado-rockies-logo-C7AEB8D8E9-seeklogo.com.png",
+     "count": 0
+   },
+   {
+     "id": 4,
+     "name": "Dodgers",
+     "image": "https://seeklogo.com/images/L/los-angeles-dodgers-logo-A81D6D57DF-seeklogo.com.png",
+     "count": 0
+   },
+   {
+     "id": 5,
+     "name": "Yankees",
+     "image": "https://seeklogo.com/images/N/new-york-yankees-logo-766DC138B6-seeklogo.com.png",
+     "count": 0
+   },
+   {
+     "id": 6,
+     "name": "Phillies",
+     "image": "https://seeklogo.com/images/P/philadelphia-phillies-logo-93769EEB2E-seeklogo.com.png",
+     "count": 0
+   },
+   {
+     "id": 7,
+     "name": "Cardinals",
+     "image": "https://seeklogo.com/images/S/st-louis-cardinals-logo-ED3B1E2E0E-seeklogo.com.png",
+     "count": 0
+   },
+   {
+     "id": 8,
+     "name": "Pirates",
+     "image": "https://seeklogo.com/images/P/pittsburgh-pirates-logo-90AA2CABDC-seeklogo.com.png",
+     "count": 0
+   },
+   {
+     "id": 9,
+     "name": "Reds",
+     "image": "https://seeklogo.com/images/C/cincinnati-reds-logo-BA9EF9E155-seeklogo.com.png",
+     "count": 0
+   },
+   {
+     "id": 10,
+     "name": "Twins",
+     "image": "https://seeklogo.com/images/M/minnesota-twins-logo-645594FD90-seeklogo.com.png",
+     "count": 0
+   },
+   {
+     "id": 11,
+     "name": "White Sox",
+     "image": "https://seeklogo.com/images/C/chicago-white-sox-logo-A06D41EC73-seeklogo.com.png",
+     "count": 0
+   },
+   {
+     "id": 12,
+     "name": "Red Sox",
+     "image": "https://seeklogo.com/images/B/boston-red-sox-logo-E1746C18A1-seeklogo.com.png",
+     "count": 0
+   }
+ ]
